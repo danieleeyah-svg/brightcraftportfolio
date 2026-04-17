@@ -28,7 +28,7 @@ function App() {
     <main>
         <section class="hero-card">
             <h1>Illuminating Your Vision</h1>
-            <p>Welcome to <strong>BrightCraft Lighting</strong>. Founded on February 1st, 2026, BrightCraft Lighting was built on a passion for crafting unforgettable visual experiences through light, atmosphere, and stage design..</p>
+            <p>Welcome to <strong>BrightCraft Lighting.</strong>. Founded on February 1st, 2026, BrightCraft Lighting was built on a passion for crafting unforgettable visual experiences through light, atmosphere, and stage design..</p>
             <p>Brighting the craft, glowing the moments.</p>
             <button class="cta-button">BOOK NOW</button>
         </section>
