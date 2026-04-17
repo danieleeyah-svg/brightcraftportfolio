@@ -33,7 +33,7 @@ function App() {
             <button class="cta-button">BOOK NOW</button>
         </section>
         <footer>
-            <p>&copy; 2024 BrightCraft Lighting. All rights reserved.</p>
+            <p>&copy; 2026 BrightCraft Lighting. All rights reserved.</p>
             
         </footer>
     </main>
